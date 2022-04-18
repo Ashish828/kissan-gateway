@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "LORA MOD",
+    "slug": "frotend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon-p.png",
+    "splash": {
+      "image": "./assets/splash-p.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon-p.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.ashish828.frotend"
+    },
+    "web": {
+      "favicon": "./assets/icon-p.png"
+    }
+  }
+}
